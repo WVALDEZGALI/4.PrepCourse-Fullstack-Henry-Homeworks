@@ -1,0 +1,21 @@
+.fondo {
+    background-color: rgb(197, 173, 173);
+}
+
+.miTexto {
+    font-size: 20px;
+    color: green;
+}
+
+.title {
+    color: blue;
+    font-size: 40px;
+}
+
+#unico {
+    font-size: 60px;
+}
+
+.tamaño {
+    width: 200px;
+}
